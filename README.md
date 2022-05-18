@@ -1,5 +1,3 @@
 - 👋 Hi, I’m @Rash13
-- 👀 I’m interested in Front-End development
-- 🌱 I’m currently learning Anguler
-
-
+- 👀 I love to work on Front-End development
+- 🌱 I’m currently working as React Developer
