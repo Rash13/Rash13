@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @Rash13
-- 👀 I love to work on Front-End development
-- 🌱 I’m currently working as React Developer
+- 👋 Hi, I’m Rashmi Yenure.
+- 👀 I love to work on Front-End development.
+- 🌱 I’m currently working as React Developer.
